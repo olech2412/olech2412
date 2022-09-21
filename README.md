@@ -12,7 +12,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=olech2412&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47cbvydeshe99lo39e36etwzwfbennklk2o4p1mr94&rid=giphy.gif&ct=g)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=olech2412&icon=2&color=0)](https://visitcount.itsvg.in)
