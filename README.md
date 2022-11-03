@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning Java, Python, JavaScript, HTML, C++<br>⚡ I’m interested in Webapplications, Microcontrollers and and everything else that has to do with computers<br>
+# About Me:
+🌱 I’m currently learning Java, Python, JavaScript, HTML, CSS, C++<br>⚡ I’m interested in Webapplications, Microcontrollers and and everything else that has to do with computers<br>
 
 
 # 💻 Tech Stack:
